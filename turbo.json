@@ -14,5 +14,6 @@
     "prebuild": {},
     "lint": {},
     "type-check": {}
-  }
+  },
+  "ui": "tui"
 }
